@@ -1,22 +1,7 @@
 Machine Learning for Economists
 ================
 
-### Spring 2021 @ Hebrew University of Jerusalem
 
-Instructor: [Itamar Caspi](https://itamarcaspi.rbind.io)
-
-Teaching assistant: David Harar
-
-:spiral_calendar: Spring semester, 2021
-:alarm_clock:     17:30 - 20:15
-:hotel:           There's no place like home...
-:writing_hand:    [github.com/ml4econ](https://github.com/ml4econ/lecture-notes-2021)
-
-:family:          [Moodle Discussion Forum](https://moodle2.cs.huji.ac.il/nu20/mod/forum/view.php?id=342325)
-
------
-
-## Overview
 
 This course covers topics that range between data science, machine learning, and econometrics. In particular, it introduces concepts from the world of ML that can potentially contribute to empirical economics. The course exposes the students to popular supervised and unsupervised machine learning methods, with an emphasis on the challenges and opportunities of integrating these methods in empirical economics, and the relevance of ML to policy analysis and causal inference. The various topics are illustrated through applications, reading empirical articles, and doing applied work.
 
